@@ -18,11 +18,10 @@ Turtle War-это игра-убивалка веремени, цель кото�
 
 # Обратная связь
 
-<p><strong>Telegram:</strong> @Za_skufOV</p>
+<p><strong>Telegram:</strong> @w4n7fun</p>
 <p><strong>Discord:</strong> ggvp3869</p>
 
 # Донат
 <a href='https://www.donationalerts.com/r/petelinka'>https://www.donationalerts.com/r/petelinka</a>
-<p>Переводом на карту: 2200 0117 0522 8394 (Газпром Банк, Александр Владимирович П.)</p>
 
 #### Готово к использованию!
