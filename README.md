@@ -20,6 +20,7 @@ Turtle War-это игра-убивалка веремени, цель кото�
 
 <p><strong>Telegram:</strong> @w4n7fun</p>
 <p><strong>Discord:</strong> ggvp3869</p>
+<p><strong>Discord сервер:</strong><a href='https://discord.gg/5PzDUgV8sm'>https://discord.gg/5PzDUgV8sm</a></p>
 
 # Донат
 <a href='https://www.donationalerts.com/r/petelinka'>https://www.donationalerts.com/r/petelinka</a>
