@@ -7,14 +7,14 @@ Turtle War-это игра-убивалка веремени, цель кото�
 
 # Сайт
 
-<a href='http://vlahouse.ru/projects/tw/'>http://vlahouse.ru/projects/tw/</a>
+<a href='https://wantfun.ru/projects/tw/'>https://wantfun.ru/projects/tw/</a>
 
 
 # Установка
 
 #### Установка игры
 <p>Можно здесь: <a href='https://github.com/wantfunSan/Turtle-War-New-Era'>https://github.com/wantfunSan/Turtle-War-New-Era</a>
-<p>А можно и здесь: <a href='http://vlahouse.ru/assets/apps/Turtle War New Era.zip'>http://vlahouse.ru/assets/apps/Turtle War New Era.zip</a>
+<p>А можно и здесь: <a href='https://wantfun.ru/assets/apps/Turtle War New Era.zip'>https://wantfun.ru/assets/apps/Turtle War New Era.zip</a>
 
 # Обратная связь
 
